@@ -1,6 +1,7 @@
 ![AWS AppSync](https://s3.amazonaws.com/aws-mobile-hub-images/awsappsyncgithub.png)
 
 ## [AWS AppSync](https://aws.amazon.com/appsync/) JavaScript SDK
+This version of aws-mobile-appsync-sdk-js updated to use Apollo client v 2.5.1 to support local state management.
 
  This SDK can be used with the Apollo JavaScript client found [here](https://github.com/apollographql/apollo-client). Please log questions for this client SDK in this repo and questions for the AppSync service in the [official AWS AppSync forum](https://forums.aws.amazon.com/forum.jspa?forumID=280&start=0).
 
